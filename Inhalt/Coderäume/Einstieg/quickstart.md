@@ -1,16 +1,16 @@
 ---
-title: Quickstart for Codespaces
+title: Quickstop for Codespaces
 intro: 'Try out {% data variables.product.prodname_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
 product: '{% data reusables.gated-features.codespaces %}'
 versions:
   fpt: '*'
   ghec: '*'
-type: quick_start
+type: quick_stop
 topics:
   - Codespaces
 redirect_from:
-  - /codespaces/codespaces-quickstart
+  - /codespaces/codespaces-quickstop
 ---
 
 ## Introduction
